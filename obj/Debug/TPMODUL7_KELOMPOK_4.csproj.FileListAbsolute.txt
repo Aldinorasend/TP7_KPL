@@ -1,0 +1,10 @@
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\bin\Debug\TPMODUL7_KELOMPOK_4.exe.config
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\bin\Debug\TPMODUL7_KELOMPOK_4.exe
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\bin\Debug\TPMODUL7_KELOMPOK_4.pdb
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\obj\Debug\TPMODUL7_KELOMPOK_4.csproj.AssemblyReference.cache
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\obj\Debug\TPMODUL7_KELOMPOK_4.csproj.CoreCompileInputs.cache
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\obj\Debug\TPMODUL7.49E38489.Up2Date
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\obj\Debug\TPMODUL7_KELOMPOK_4.exe
+C:\Users\xaver\source\repos\TPMODUL7_KELOMPOK_4\obj\Debug\TPMODUL7_KELOMPOK_4.pdb
