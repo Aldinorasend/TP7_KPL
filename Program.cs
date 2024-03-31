@@ -10,6 +10,9 @@ namespace TPMODUL7_KELOMPOK_4
     {
         static void Main(string[] args)
         {
+            DataMahasiswa dataMahasiswa = new DataMahasiswa();
+            dataMahasiswa.ReadJSON();
+            Console.ReadLine();
         }
     }
 }
