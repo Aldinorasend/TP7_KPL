@@ -13,6 +13,8 @@ namespace TPMODUL7_KELOMPOK_4
             DataMahasiswa dataMahasiswa = new DataMahasiswa();
             dataMahasiswa.ReadJSON();
 
+            KuliahMahasiswa_1302220108 kuliahMahasiswa = new KuliahMahasiswa_1302220108();
+            kuliahMahasiswa.ReadJson();
 
             Console.ReadLine();
         }
