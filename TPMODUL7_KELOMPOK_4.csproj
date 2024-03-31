@@ -46,8 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="DataMahasiswa_1302223146.cs" />
     <Compile Include="KuliahMahasiswa_1302223146.cs" />
+=======
+    <Compile Include="DataMahasiswa_1302223071.cs" />
+    <Compile Include="KuliahMahasiswa_1302223071.cs" />
+>>>>>>> 5e1b6f2442f5a66c0a34d2374d99ab50127e8aee
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
